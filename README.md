@@ -20,7 +20,7 @@ does not show anything in the console log of developer tools. I am out of time b
 -sad sad attempt at moment.js
 
 ## Link to Deployed Application
-[Password Generator] (https://mikak02.github.io/week5Challenge/)
+[Work Day Scheduler] (https://mikak02.github.io/week5Challenge/)
 
 ## Screenshot
 ![Screenshot of website](./Develop/assets/images/Screenshot.png)
